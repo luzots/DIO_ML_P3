@@ -3,7 +3,7 @@ Bootcamp DIO Machine Learning - Project 3 Confusion Matrix / Metrics Calculation
 
 * This project is only for educational purposes.
 * This project was created from scratch with AI support.
-* The ROC graphs are showing I think a " perfect model" and I don't know if this is a technical issue or a graph visualization problem ( scale, decimal numbers, etc.)
+* The ROC graphs are showing I think a " perfect model" and I don't know if this is a technical issue or a graph visualization settings ( scale, decimal numbers, etc.)
   
 The project used the MNIST dataset.
 Through the confusion matrix , all the metrics are calculated.
